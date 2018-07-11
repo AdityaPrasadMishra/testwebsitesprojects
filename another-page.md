@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
+# Hey There, Thanks for visiting
 
-_yay_
+This page is still under construction and will be online soon.
 
 [back](./)
