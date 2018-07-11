@@ -6,11 +6,11 @@ The 27th International Joint Conference on Artificial Intelligence and the 23rd 
 [here](https://www.ijcai-18.org/). Yochan have a number of accepted papers for the main event. You can find more about the proceedings for the main event [here](https://www.ijcai.org/proceedings/2018/).
 
 ## Accepted Papers
-* [Hierarchical Expertise Level Modeling for User Specific Contrastive Explanations](https://www.ijcai.org/proceedings/2018/0671.pdf)
+* [**Hierarchical Expertise Level Modeling for User Specific Contrastive Explanations**](https://www.ijcai.org/proceedings/2018/0671.pdf)
 
-    Authors - Sarath Sreedharan, Siddharth Srivastava, Subbarao Kambhampati
+    **Authors** - Sarath Sreedharan, Siddharth Srivastava, Subbarao Kambhampati
 
-    Abstract - There is a growing interest within the AI research
+    **Abstract** - There is a growing interest within the AI research
     community in developing autonomous systems capable
     of explaining their behavior to users. However,
     the problem of computing explanations for
@@ -29,14 +29,14 @@ The 27th International Joint Conference on Artificial Intelligence and the 23rd 
     empirically show that our approach can efficiently
     compute explanations for a variety of problems.
 
-    Status - Accepted for the Main Track and published in Proceedings in Planning and Scheduling section.
+    **Status** - Accepted for the Main Track and published in Proceedings in Planning and Scheduling section.
+<br/><br/>
 
+* [**Extracting Action Sequences from Texts Based on Deep Reinforcement Learning**](https://www.ijcai.org/proceedings/2018/0565.pdf)
 
-* [Extracting Action Sequences from Texts Based on Deep Reinforcement Learning](https://www.ijcai.org/proceedings/2018/0565.pdf)
+    **Authors** - Wenfeng Feng, Hankz Hankui Zhuo, Subbarao Kambhampati
 
-    Authors - Wenfeng Feng, Hankz Hankui Zhuo, Subbarao Kambhampati
-
-    Abstract - Extracting action sequences from texts is challenging,
+    **Abstract** - Extracting action sequences from texts is challenging,
     as it requires commonsense inferences based
     on world knowledge. Although there has been
     work on extracting action scripts, instructions, navigation
@@ -57,5 +57,5 @@ The 27th International Joint Conference on Artificial Intelligence and the 23rd 
     of our approach on several datasets with comparison
     to state-of-the-art approaches
 
-    Status - Accepted for the Main Track and published in Proceedings in Natural Language section.
+    **Status** - Accepted for the Main Track and published in Proceedings in Natural Language section.
 
