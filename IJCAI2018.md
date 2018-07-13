@@ -58,4 +58,16 @@ The 27th International Joint Conference on Artificial Intelligence and the 23rd 
     to state-of-the-art approaches
 
     **Status** - Accepted for the Main Track and published in Proceedings in Natural Language section.
+<br/><br/><br/>
+## Accepted Demos
 
+* [**Visualizations for an Explainable Planning Agent**](https://arxiv.org/pdf/1709.04517.pdf) 
+
+    **Authors** - Tathagata Chakraborti, Kshitij P. Fadnis, Kartik Talamadupula, Mishal Dholakia, Biplav Srivastava, Jeffrey O. Kephart, Rachel K. E. Bellamy
+
+    **Abstract** - In this paper, we report on the visualization capabilities
+    of an Explainable AI Planning (XAIP) agent that can support human in the loop decision making. Imposing transparency and explainability requirements on such agents is especially important in order to establish trust and common ground with
+    the end-to-end automated planning system. Visualizing the agent’s internal decision making processes is a crucial step towards achieving this. This may include externalizing the “brain” of the agent – starting from its sensory inputs, to progressively higher order decisions made by it in order to drive its planning components. We also show how the planner can bootstrap on the latest techniques in explainable planning to cast plan visualization as a plan explanation problem, and thus provide concise model based visualization of its plans. We demonstrate
+    these functionalities in the context of the automated planning components of a smart assistant in an instrumented meeting space.
+
+    **Demo Schedule** - July 17th, afternoon
